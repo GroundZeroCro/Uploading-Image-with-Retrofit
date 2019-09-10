@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Http-Image-Sender</string>
+    <string name="select_image">Select image:</string>
+    <string name="select_image_button">Select image</string>
+    <string name="invalid_uri">Invalid Uri</string>
+</resources>
